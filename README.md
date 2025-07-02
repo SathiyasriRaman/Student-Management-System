@@ -5,6 +5,31 @@ It allows 10th standard student mark entry (subject-wise), automatically calcula
 
 ---
 
+##  Screenshots
+
+### 🔹 GUI – Main Window
+![Main GUI](screenshots/main_GUI.png)
+
+### 🔹 Adding a Student
+![Add](screenshots/Add.png)
+
+### 🔹 Viewing All Records
+![View](screenshots/View.png)
+
+### 🔹 Searching a Student
+![Search](screenshots/Search.png)
+
+### 🔹 Deleting a Student
+![Delete](screenshots/Delete.png)
+
+### 🔹 C++ Backend Output – Sorted Display
+![Backend Terminal 1](screenshots/backend_terminal1.png)
+
+### 🔹 C++ Backend Output – After Deletion
+![Backend Terminal 2](screenshots/backend_terminal2.png)
+
+---
+
 ##  Features
 
 ###  Java GUI (Frontend):
@@ -44,18 +69,18 @@ StudentRecordSystem/
 ├── screenshots/ # Screenshots of GUI and Terminal (optional)
 ├── README.md # Project documentation
 
-### ▶ Running Java GUI:
+###  Running Java GUI:
 ```bash
 javac StudentGUI.java
 java StudentGUI
 
 ---
-## ▶️ Running C++ BST Program:
+##  Running C++ BST Program:
 g++ student_bst.cpp -o student_bst
 ./student_bst    # or student_bst.exe on Windows
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sathiyasri R.**  
 Department of Computer Science and Engineering  
@@ -64,7 +89,7 @@ GitHub: [SathiyasriRaman](https://github.com/SathiyasriRaman)
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is created solely for **learning and portfolio purposes**.  
 It does **not** contain any confidential or proprietary data.  
