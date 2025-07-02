@@ -49,18 +49,24 @@ StudentRecordSystem/
 javac StudentGUI.java
 java StudentGUI
 
-### ▶ Running C++ BST Program:
-bash
+---
+## ▶️ Running C++ BST Program:
 g++ student_bst.cpp -o student_bst
 ./student_bst    # or student_bst.exe on Windows
+---
 
-### Author:
-Sathiyasri R
-Department of Computer Science and Engineering
-SASTRA University, Tamil Nadu, India
-GitHub: SathiyasriRaman
+## 👨‍💻 Author
 
-###⚠️ Disclaimer:
-This project is intended for learning, portfolio purposes.
-It does not include any confidential or proprietary data.
-The author retains rights to the design and structure of this system. 
+**Sathiyasri R.**  
+Department of Computer Science and Engineering  
+SASTRA University, Tamil Nadu, India  
+GitHub: [SathiyasriRaman](https://github.com/SathiyasriRaman)
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created solely for **learning and portfolio purposes**.  
+It does **not** contain any confidential or proprietary data.  
+The author retains rights to the design and structure of this system.
+
