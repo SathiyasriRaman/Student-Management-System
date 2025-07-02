@@ -54,12 +54,13 @@ bash
 g++ student_bst.cpp -o student_bst
 ./student_bst    # or student_bst.exe on Windows
 
+### Author:
 Sathiyasri R
 Department of Computer Science and Engineering
 SASTRA University, Tamil Nadu, India
 GitHub: SathiyasriRaman
 
-⚠️ Disclaimer
+###⚠️ Disclaimer:
 This project is intended for learning, portfolio purposes.
 It does not include any confidential or proprietary data.
 The author retains rights to the design and structure of this system. 
