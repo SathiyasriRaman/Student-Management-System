@@ -1,13 +1,13 @@
-# 🧑‍🎓 Student Record Management System (Java + C++)
+#  Student Record Management System (Java + C++)
 
 This is a complete **student record management system** that uses **Java (Swing GUI)** for the frontend and **C++ (Binary Search Tree)** for the backend.  
 It allows 10th standard student mark entry (subject-wise), automatically calculates **Total, Average, and Grade**, and provides functionalities to **view, search, delete**, and **display sorted records**.
 
 ---
 
-## 💡 Features
+##  Features
 
-### ✅ Java GUI (Frontend):
+###  Java GUI (Frontend):
 - Enter marks for 5 subjects: **Tamil, English, Maths, Science, Social**
 - Auto-calculation of **Total**, **Average**, and **Grade**
 - View all student records in a scrollable table
@@ -15,7 +15,7 @@ It allows 10th standard student mark entry (subject-wise), automatically calcula
 - Delete student by **Roll Number**
 - Stores data in a file: `students.txt`
 
-### ✅ C++ Backend (BST Logic):
+###  C++ Backend (BST Logic):
 - Reads data from `students.txt`
 - Builds **Binary Search Tree** using Roll Number
 - Allows:
@@ -26,7 +26,7 @@ It allows 10th standard student mark entry (subject-wise), automatically calcula
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java (Swing, File I/O)
 - C++ (Binary Search Tree, File Handling)
@@ -35,7 +35,7 @@ It allows 10th standard student mark entry (subject-wise), automatically calcula
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 StudentRecordSystem/
 ├── StudentGUI.java # Java GUI frontend
@@ -44,12 +44,12 @@ StudentRecordSystem/
 ├── screenshots/ # Screenshots of GUI and Terminal (optional)
 ├── README.md # Project documentation
 
-### ▶️ Running Java GUI:
+### ▶ Running Java GUI:
 ```bash
 javac StudentGUI.java
 java StudentGUI
 
-###▶️ Running C++ BST Program:
+### ▶ Running C++ BST Program:
 bash
 g++ student_bst.cpp -o student_bst
 ./student_bst    # or student_bst.exe on Windows
